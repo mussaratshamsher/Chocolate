@@ -227,15 +227,21 @@ bottom p{
   main offers{
     display: block;
   }
-  /* footer{
-    display: grid;
-    grid-column: 2;
-    column-gap: 20%;
-  }  */
+  p{
+    font-size: medium;
+  }
+  h1{
+    font-size: x-large;
+  }
   footer{
+    display: grid;
+    text-align: center;
+    
+  } 
+  /* footer{
     width: 80%;
     column-count: 2;
     column-gap: 20px;
-  }
+  } */
     
  }
