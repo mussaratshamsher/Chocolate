@@ -217,6 +217,9 @@ bottom p{
   header{
     width: 5%;
   }
+  header li{
+    font-size: small;
+  }
   main{
     width: 95%;
     margin: auto;
