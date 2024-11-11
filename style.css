@@ -213,7 +213,7 @@ bottom p{
   margin-bottom: 5%;
   font-size:medium;
 }
- @media screen and(max-width:350px){
+ @media screen and(max-width:700px){
   header{
     width: 5%;
   }
